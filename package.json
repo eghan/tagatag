@@ -1,0 +1,24 @@
+{
+  "name": "tagatag",
+  "version": "1.0.0",
+  "description": "meta tag manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eghan/tagatag.git"
+  },
+  "keywords": [
+    "meta",
+    "tag",
+    "management"
+  ],
+  "author": "Eghan Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eghan/tagatag/issues"
+  },
+  "homepage": "https://github.com/eghan/tagatag#readme"
+}
